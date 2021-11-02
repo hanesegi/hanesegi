@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+<img src="https://github.com/hanesegi/hanesegi/blob/main/yohanesegiprofile.png"
+
 <!--
 **hanesegi/hanesegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
