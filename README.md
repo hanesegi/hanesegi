@@ -15,7 +15,6 @@ I am a machine learning enthusiast passionate about making machine learning mode
 ![Jupyterlab](https://img.shields.io/badge/-Jupyterlab-gold?style=flat-square&logo=Jupyterlab)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=Kubernetes)
 ![Kubeflow](https://img.shields.io/badge/-Kubeflow-blue?style=flat-square&logo=Kubeflow)
