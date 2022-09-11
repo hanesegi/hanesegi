@@ -3,22 +3,6 @@ I am a machine learning enthusiast passionate about making machine learning mode
 
 <img src="https://github.com/hanesegi/hanesegi/blob/6fdfe2959b7c8551c08c21251e9376b0222b8095/yohanesegiprofile.png" >
  
-## ⚡⚡ intelligence technology
-
-![Python](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=Python)
-![Pytorch](https://img.shields.io/badge/-Pytorch-pink?style=flat-square&logo=Pytorch)
-![TensorFlow](https://img.shields.io/badge/-Tensorflow-blue?style=flat-square&logo=Tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-gray?style=flat-square&logo=Keras)
-![Spark](https://img.shields.io/badge/-Spark-purple?style=flat-square&logo=Spark)
-![SQL](https://img.shields.io/badge/-SQL-peach?style=flat-square&logo=SQL)
-![Pandas](https://img.shields.io/badge/-Pandas-purple?style=flat-square&logo=Pandas)
-![Jupyterlab](https://img.shields.io/badge/-Jupyterlab-gold?style=flat-square&logo=Jupyterlab)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-white?style=flat-square&logo=Kubernetes)
-![Kubeflow](https://img.shields.io/badge/-Kubeflow-blue?style=flat-square&logo=Kubeflow)
-
 
 </details>
 <p>
@@ -29,22 +13,14 @@ I am a machine learning enthusiast passionate about making machine learning mode
 </p>
 
 
- 
 
-<!--
+### My Data Science Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Jupyter](https://img.shields.io/static/v1?style=for-the-badge&message=Jupyter&color=F37626&logo=Jupyter&logoColor=FFFFFF&label=)
+![Streamlit](https://img.shields.io/static/v1?style=for-the-badge&message=Streamlit&color=FF4B4B&logo=Streamlit&logoColor=FFFFFF&label=)
 
-
-<!--
-**hanesegi/hanesegi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Websites
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanesegipratamayudoutomo/)
