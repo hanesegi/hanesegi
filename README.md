@@ -4,15 +4,6 @@ I am a machine learning enthusiast passionate about making machine learning mode
 <img src="https://github.com/hanesegi/hanesegi/blob/6fdfe2959b7c8551c08c21251e9376b0222b8095/yohanesegiprofile.png" >
  
 
-</details>
-<p>
- <img src="https://github-readme-stats.vercel.app/api?username=hanesegi&theme=synthwave&show_icons=true&count_private=true">
-    <br></br>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanesegi&theme=tokyonight"/>
- 
-</p>
-
-
 
 ### My Data Science Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
