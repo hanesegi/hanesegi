@@ -15,3 +15,7 @@ I am a machine learning enthusiast passionate about making machine learning mode
 
 ### My Websites
 [![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yohanesegipratamayudoutomo/)
+
+
+## 📚 My Latest Medium Articles
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@yohanesegipratama26/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@yohanesegipratama26/0" alt="Recent Article 0">
